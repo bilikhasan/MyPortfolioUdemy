@@ -13,10 +13,10 @@ namespace MyPortfolioUdemy.Controllers
             return View(values);
         }
 
-        [HttpGet]
-        public IActionResult CreateExperience()
-        {
-            return View();
+        [HttpGet]                                                       
+        public IActionResult CreateExperience()                         
+        {                                                               
+            return View();                                              
         }
 
         [HttpPost]
