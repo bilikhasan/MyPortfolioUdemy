@@ -32,3 +32,5 @@ The user interface in the project is designed so that the user can view informat
 🔑 Admin Panel:
 All CRUD operations can be performed in the admin panel. The admin can create tasks in the to-do list (To-Do List) and mark the task when completed. In addition, incoming messages are displayed as pop-ups and the admin can manage these messages. The statistics section in the admin panel is larger than the user panel.
 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7266390485882052608/
